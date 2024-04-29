@@ -1,0 +1,60 @@
+Alena Papko
+QA Engineer
+
++375295452879
+
+QA Engineer with 1+ years of experience in manual and automated testing. I'm engaged in writing automated tests in Python and manual testing, a specialist, focused on achieving all goals and objectives. Effective team player, good analytical and problem-solving skills, great attention to detail. I'm always ready to learn something new and to share knowledge.
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+LANGUAGES
+  ★★★★★ Russian
+  ★★★☆☆ English
+
+SKILLS
+  Quality Assurance
+  Manual Testing
+  Test Automation
+  Bug Tracking
+  Python
+  HTML & CSS
+  Git
+  SQL
+  DevTools
+  Postman
+  API
+  Selenium
+  Fiddler / Charles
+
+WORK EXPERIENCE
+  * March 2023 – Present
+    Automation QA engineer at QaLerning, Minsk
+      
+  Experience with automated testing of web applications  Python
+  Proficiency in acceptance, regression, and usability testing
+  Work with test documentation (checklists/test cases)
+  API testing with Postman / Swagger
+  Experience with Git
+  Strong understanding of web technologies
+
+
+  * March 2022 – May 2024
+    QA Engineer at A1QA, Minsk
+      
+  Functional / non-functional testing of a web application
+  Smoke resting
+  GUI testing
+  Wrote check lists and test cases (TestRail)
+  Wrote bug reports (Jira)
+  Windows, Linux, networks and web technologies, Fiddler, DevTools, as well as product development methodologies and defect lifecycles
+
+
+
+EDUCATION
+  * September 2011 – May 2014
+     Volkovysk College of the Educational Establishment "Yanka Kupala State University of Grodno,  
+
